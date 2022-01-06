@@ -4,4 +4,4 @@ ICloud Photos Share-Link to Google Drive Copier
 
 I could just use Google Drive storage to start and not ICloud but the Apple ecosystem got me 😪
 
-Todo: *make readme*
+Todo: fix variable renaming mess, updating comments, and *make readme*
